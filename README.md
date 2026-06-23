@@ -9,6 +9,8 @@ This holds the cube shape with the microphone barrel through the middle. and opt
 
 If you want the hackaday logo you'll have to download the Thingiverse model mentioned in the SCAD files, otherwise comment out the lines relating to it as indicated in the code.
 
+The microphone body measurements for the microphone barrel hole are a conical section derived from measuring my Behringer SM58 clone. You may want to measure your own microphone and apply changes here as needed.
+
 ## white-hackaday-logo.scad
 This is a flat Hackaday logo. If you have a multi filament printer you can position these in the sides of the cube for an all in one print, otherwise you can print them separately and glue them in. Again, it needs the Hackaday logo from Thingiverse.
 
