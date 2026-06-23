@@ -4,6 +4,8 @@
 # Microphone-Cube
 A 3D printable reporter's microphone cube made with openSCAD, with a Hackaday logo if necessary.
 
+![My Hackaday microphone cube](./hackaday-mic-cube.jpg "My Hackaday microphone cube")
+
 ## mic-cube.scad
 This holds the cube shape with the microphone barrel through the middle. and optionally four Hackaday logos let into the sides.
 
