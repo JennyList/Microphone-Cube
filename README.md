@@ -2,7 +2,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B41FD5UE)
 
 # Microphone-Cube
-A 3D printable reporter's microphone cube, with a Hackaday logo if necessary.
+A 3D printable reporter's microphone cube made with openSCAD, with a Hackaday logo if necessary.
 
 ## mic-cube.scad
 This holds the cube shape with the microphone barrel through the middle. and optionally four Hackaday logos let into the sides.
